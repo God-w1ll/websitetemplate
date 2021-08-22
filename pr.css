@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(235, 219, 212);
+}
+#fnt{
+    color:firebrick
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
